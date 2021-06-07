@@ -317,5 +317,22 @@
             "image": "author1.png"
         }
       }
+    ],
+    "authors": [
+      {
+        "id": 1,
+        "name": "Mailer Martínez",
+        "image": "author1.png"
+      },
+      {
+        "id": 2,
+        "name": "Juancito Perez",
+        "image": "author2.png"
+      },
+      {
+        "id": 3,
+        "name": "Lola Hernandez",
+        "image": "author3.png"
+      }
     ]
 }
